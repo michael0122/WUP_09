@@ -126,3 +126,4 @@ which.max(summary.out$adjr2)
 summary.out$which[2,]
 ```
 
+the summary shows that the best two variables to be used are Length 2 and Width.
