@@ -115,7 +115,7 @@ as.data.frame(summary.out$outmat)
 subsets(regsubsets.out,statistic="adjr2",legend="bottomright",main="Adjusted R^2")
 ```
 
-the best two variables to be used are Length 2 and Width. 
+
 
 
 ```{r}
